@@ -1,0 +1,28 @@
+<poo.Order>
+  <number>1</number>
+  <date>2024-08-26T18:36:04.588258</date>
+  <state>Pending</state>
+  <total>100.0</total>
+  <productOrders>
+    <poo.ProductOrder>
+      <order reference="../../.."/>
+      <product>
+        <title>Lait</title>
+        <price>50.0</price>
+        <id>101</id>
+        <promo>0.5</promo>
+      </product>
+      <qty>1</qty>
+    </poo.ProductOrder>
+    <poo.ProductOrder>
+      <order reference="../../.."/>
+      <product>
+        <title>Miel</title>
+        <price>50.0</price>
+        <id>102</id>
+        <promo>9.0</promo>
+      </product>
+      <qty>1</qty>
+    </poo.ProductOrder>
+  </productOrders>
+</poo.Order>
