@@ -12,7 +12,7 @@ Ce projet Java sert à gérer des commandes de façon simple. Il permet de crée
 1. Cloner le repository :
    ```bash
    [git clone](https://github.com/Billyma21/Product_Ordre.git)
-   ------------------
+   -----------------------------------------------------------
    
  **Technologies utilisées:**
  
