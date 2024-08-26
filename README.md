@@ -16,3 +16,4 @@ Ce projet a pour objectif de...
  **Technologies utilisées:**
 * Java
 * Spring Boot
+![consigne](https://github.com/user-attachments/assets/81db8785-d1bf-470d-8255-07055f5143dc)
